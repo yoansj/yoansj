@@ -5,8 +5,6 @@
 * Rocket League enthusiast :car: :rocket:
 * Learning React :computer:
 
-<br />
-
 ### Open to work :briefcase:
 * Currently looking for a **part-time internship** :briefcase:
 * Starting on **01/10/2020** ending **26/03/2021** :calendar:
@@ -14,12 +12,7 @@
 * Based in or next to Paris :office:
 * [Contact me](mailto:yoan.saint-juste@epitech.eu) :point_left:
 
-<br />
-
 ### Languages and Tools:
-
-<br />
-
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
