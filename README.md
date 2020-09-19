@@ -36,8 +36,6 @@
 &nbsp; <br> [![Spotify](https://novatorem-self-tau.vercel.app/api/spotify)](https://open.spotify.com/user/0uwen28hfp6lk6x98q4wgux5z) | [![Yoan's github stats](https://github-readme-stats.vercel.app/api?username=yoansj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<br />
-<br />
 
 ---
 
