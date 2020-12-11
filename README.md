@@ -47,4 +47,4 @@
 Work in progress :warning: | Cool project :sunglasses:
 --- | ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=rchat&theme=dark)](https://github.com/yoansj/rchat) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pics&theme=dark)](https://github.com/yoansj/pics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pytwibot&theme=dark)](https://github.com/yoansj/pytwibot) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=WorkshopBotConcours&theme=dark)](https://github.com/yoansj/WorkshopBotConcours)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pytwibot&theme=dark)](https://github.com/yoansj/pytwibot) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=Epicture&theme=dark)](https://github.com/yoansj/Epicture)
