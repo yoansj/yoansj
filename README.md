@@ -6,9 +6,9 @@
 * Learning React :computer:
 
 ### Open to work :briefcase:
-* Currently looking for a **part-time internship** :briefcase:
-* Starting on **01/10/2020** ending **26/03/2021** :calendar:
-* **Two days** per week (Thursdays and Fridays) :calendar:
+* Currently looking for a **full-time internship** :briefcase:
+* Starting on **05/04/2021** ending **31/08/2021** :calendar:
+* I would really like to do front-end developpment but i'm open to any proposition 😃
 * Based in or next to Paris :office:
 * [Contact me](mailto:yoan.saint-juste@epitech.eu) :point_left:
 
