@@ -6,11 +6,11 @@
 * Learning React :computer:
 
 ### Open to work :briefcase:
-* Currently looking for a **full-time internship** :briefcase:
-* Starting on **05/04/2021** ending **31/08/2021** :calendar:
+* Currently in South Korea 🎉
+* Looking for a **a remote part time job ?** :briefcase:
 * I would really like to do front-end developpment but i'm open to any proposition 😃
 * Based in or next to Paris :office:
-* [Contact me](mailto:yoan.saint-juste@epitech.eu) :point_left:
+* [Contact me](mailto:yoansjpro@gmail.com) :point_left:
 
 ### Languages and Tools:
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
