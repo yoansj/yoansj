@@ -1,9 +1,9 @@
 ### Hi i'm ~~Johan~~ ~~Yohann~~ ~~Juan~~ Yoan 👋 ![](https://komarev.com/ghpvc/?username=yoansj&color=blueviolet&label=Viewers)
 
 ### About me :point_down:
-* 3rd Year at Epitech Paris (Promo 2023)
+* Epitech Paris Promo 2023
 * Rocket League enthusiast :car: :rocket:
-* Learning React :computer:
+* React fan :computer:
 
 ### Open to work :briefcase:
 * Currently in South Korea 🎉
@@ -12,7 +12,7 @@
 * Based in or next to Paris :office:
 * [Contact me](mailto:yoansjpro@gmail.com) :point_left:
 
-### Languages and Tools:
+### Languages and Tools (Needs a refresh):
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
