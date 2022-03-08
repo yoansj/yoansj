@@ -46,5 +46,5 @@
 
 Work in progress :warning: | Cool project :sunglasses:
 --- | ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=rchat&theme=dark)](https://github.com/yoansj/rchat) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pics&theme=dark)](https://github.com/yoansj/pics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=yoyo-game&theme=dark)](https://github.com/yoansj/yoyo-games) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pics&theme=dark)](https://github.com/yoansj/pics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=konkour&theme=dark)](https://github.com/yoansj/konkour) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=Epicture&theme=dark)](https://github.com/yoansj/Epicture)
