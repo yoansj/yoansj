@@ -7,7 +7,7 @@
 
 ### Open to work :briefcase:
 * Currently in South Korea 🎉
-* Looking for a **a remote part time job ?** :briefcase:
+* Looking for a **a remote part time job** :briefcase:
 * I would really like to do front-end developpment but i'm open to any proposition 😃
 * Based in or next to Paris :office:
 * [Contact me](mailto:yoansjpro@gmail.com) :point_left:
@@ -46,5 +46,5 @@
 
 Work in progress :warning: | Cool project :sunglasses:
 --- | ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=yoyo-game&theme=dark)](https://github.com/yoansj/yoyo-games) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pics&theme=dark)](https://github.com/yoansj/pics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=yoyo-games&theme=dark)](https://github.com/yoansj/yoyo-games) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=pics&theme=dark)](https://github.com/yoansj/pics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=konkour&theme=dark)](https://github.com/yoansj/konkour) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yoansj&repo=Epicture&theme=dark)](https://github.com/yoansj/Epicture)
