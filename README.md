@@ -35,6 +35,7 @@ Hey everyone ! I'm a student at Epitech Paris expected to graduate in 2023. I'm 
   <img alt="Next.js" src="https://img.shields.io/static/v1?style=flat-square&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=" />
   <img alt="Yarn" src="https://img.shields.io/static/v1?style=flat-square&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=" />
   <img alt="Socket.io" src="https://img.shields.io/static/v1?style=flat-square&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=" />
+  <img alt="Express" src="https://img.shields.io/static/v1?style=flat-square&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=" />
 </td>
 <td>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
