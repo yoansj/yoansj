@@ -69,7 +69,7 @@ Hey everyone ! I'm a student at Epitech Paris expected to graduate in 2023. I'm 
 
 :headphones: Cool song I am listening to :headphones: | Cool numbers
 ---  | --- |
-&nbsp; <br> [![Spotify](https://novatorem-self-tau.vercel.app/api/spotify)](https://open.spotify.com/user/0uwen28hfp6lk6x98q4wgux5z) | [![Yoan's github stats](https://github-readme-stats.vercel.app/api?username=yoansj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; <br> [![Spotify](https://novatorem-self-tau.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/0uwen28hfp6lk6x98q4wgux5z) | [![Yoan's github stats](https://github-readme-stats.vercel.app/api?username=yoansj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">Thank you for reading 😉</p>
