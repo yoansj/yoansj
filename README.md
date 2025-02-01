@@ -1,7 +1,9 @@
 # Hi i'm Yoan 👋
 
 ### About me :point_down:
-Hey everyone ! I'm a student at Epitech Paris expected to graduate in 2023. I'm really interested about web development and creative development. I love React and Typescript, I'm very curious and always on the look to learn new things. I'm looking for a 6 months internship or job to complete for 2023 to complete my course. I'm also doing freelance, reach out to me if you want to work together !
+~~Hey everyone ! I'm a student at Epitech Paris expected to graduate in 2023. I'm really interested about web development and creative development. I love React and Typescript, I'm very curious and always on the look to learn new things. I'm looking for a 6 months internship or job to complete for 2023 to complete my course. I'm also doing freelance, reach out to me if you want to work together !~~
+<br />
+Just doing stuff
 
 
 <h3> My stack and tools </h3>
